@@ -32,3 +32,5 @@ Also, project aim is to provide transparency in this field, make the process of 
 
 -> Can Update Unit Of Particular Blood Group.
 
+### 2. Donor
+-> 
