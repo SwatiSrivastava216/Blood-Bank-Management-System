@@ -33,4 +33,14 @@ Also, project aim is to provide transparency in this field, make the process of 
 -> Can Update Unit Of Particular Blood Group.
 
 ### 2. Donor
--> 
+-> Donor can create account by providing basic details.
+
+-> After Login, Donor can donate blood, After approval from admin only, blood will be added to blood stock.
+
+-> Donor can see their donation history with status (Pending, Approved, Rejected).
+
+-> Donor can also request for blood from blood stock.
+
+-> Donor can see their blood request history with status.
+
+-> Donor can see number of blood request Made, Approved, Pending, Rejected by Admin on their dashboard.
