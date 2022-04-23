@@ -6,3 +6,29 @@ This project aims at maintaining all the information pertaining to blood donors,
 Also, project aim is to provide transparency in this field, make the process of obtaining blood from a blood bank hassle-free and corruption-free and make  the system of blood bank management effective. 
 
 ## Features:
+
+### 1. Admin
+-> Create Admin and login.
+
+-> After Login, can see Unit of blood of each blood group available, Number Of Donor, Number of blood request, Number of approved request, Total Unit of blood on Dashboard.
+
+-> Can View, Update, Delete Donor.
+
+-> Can View, Update, Delete Patient.
+
+-> Can View Donation Request made by donor and can approve or reject that request based on disease of donor.
+
+-> If Donation Request approved by admin then that unit of blood added to bloodstock of that blood group.
+
+-> If Donation Request rejected by admin then 0 unit of blood added to stock.
+
+-> Can View Blood Request made by donor / patient and can approve or reject that request.
+
+-> If Blood Request approved by admin then that unit of blood reduced from bloodstock of that blood group.
+
+-> If Blood Request rejected by admin then 0 unit of blood reduced from stock.
+
+-> Can see history of blood request.
+
+-> Can Update Unit Of Particular Blood Group.
+
