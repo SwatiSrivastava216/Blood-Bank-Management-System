@@ -47,3 +47,10 @@ Also, project aim is to provide transparency in this field, make the process of 
 
 ### 3. Patient
 
+-> Create account (No Approval Required By Admin, Can Login After Signup)
+
+-> After Login, Can see number of blood request Made, Approved, Pending, Rejected by Admin on their dashboard.
+
+-> Patient can request for blood of specific blood group and unit from blood stock.
+
+-> Patient can see their blood request history with status (Pending, Approved, Rejected).
