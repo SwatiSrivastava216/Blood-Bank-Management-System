@@ -44,3 +44,6 @@ Also, project aim is to provide transparency in this field, make the process of 
 -> Donor can see their blood request history with status.
 
 -> Donor can see number of blood request Made, Approved, Pending, Rejected by Admin on their dashboard.
+
+### 3. Patient
+
