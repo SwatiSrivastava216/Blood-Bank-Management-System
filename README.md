@@ -56,3 +56,4 @@ Also, project aim is to provide transparency in this field, make the process of 
 -> Patient can see their blood request history with status (Pending, Approved, Rejected).
 
 ## Home Page
+![image](https://user-images.githubusercontent.com/67548404/165465610-b2e03664-0962-48ae-8470-02a8b9e3473c.png)
