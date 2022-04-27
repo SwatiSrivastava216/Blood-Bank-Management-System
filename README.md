@@ -54,3 +54,5 @@ Also, project aim is to provide transparency in this field, make the process of 
 -> Patient can request for blood of specific blood group and unit from blood stock.
 
 -> Patient can see their blood request history with status (Pending, Approved, Rejected).
+
+## Home Page
