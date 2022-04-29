@@ -60,3 +60,5 @@ Also, project aim is to provide transparency in this field, make the process of 
 
 ## Admin Page
 ![image](https://user-images.githubusercontent.com/67548404/165742570-75555a66-f912-454f-ac6a-fdda72f4f854.png)
+
+## Patient Page
