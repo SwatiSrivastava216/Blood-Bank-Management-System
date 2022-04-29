@@ -62,3 +62,4 @@ Also, project aim is to provide transparency in this field, make the process of 
 ![image](https://user-images.githubusercontent.com/67548404/165742570-75555a66-f912-454f-ac6a-fdda72f4f854.png)
 
 ## Patient Page
+![image](https://user-images.githubusercontent.com/67548404/165918340-37edd5fa-0c89-4e9c-84ee-01a2b1efb9c0.png)
