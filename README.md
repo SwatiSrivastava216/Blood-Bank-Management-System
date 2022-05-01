@@ -63,3 +63,6 @@ Also, project aim is to provide transparency in this field, make the process of 
 
 ## Patient Page
 ![image](https://user-images.githubusercontent.com/67548404/165918340-37edd5fa-0c89-4e9c-84ee-01a2b1efb9c0.png)
+
+## Donor Page
+
