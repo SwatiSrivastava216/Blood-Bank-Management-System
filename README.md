@@ -67,3 +67,5 @@ Also, project aim is to provide transparency in this field, make the process of 
 ## Donor Page
 ![image](https://user-images.githubusercontent.com/67548404/166131224-cfe676e1-66ef-41a1-8520-e7ab11296035.png)
 
+## Uses:
+
