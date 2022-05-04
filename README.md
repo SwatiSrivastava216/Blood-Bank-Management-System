@@ -68,4 +68,8 @@ Also, project aim is to provide transparency in this field, make the process of 
 ![image](https://user-images.githubusercontent.com/67548404/166131224-cfe676e1-66ef-41a1-8520-e7ab11296035.png)
 
 ## Uses:
-
+The proposed system can be used to reduce the time required to deliver required blood to the needy in cases of emergency. 
+The web application provides a way of communication and synchronization between the donor and the blood bank. 
+It also provides them with the facility of communicating with the donors in emergency. 
+The database is a vital aspect of the system. 
+The database of the needy and the blood bank must be checked for consistency on regular basis for smooth working of the system.
